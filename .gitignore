@@ -1,0 +1,11 @@
+*.sln
+*.cache
+*.dll
+*.pdb
+*.props
+*.targets
+*.vbproj
+*.lock
+*.ide
+*/.vs/
+*/*/bin
